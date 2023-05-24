@@ -1,0 +1,22 @@
+Hi, I'm having a hard time understanding the difference between the simple storages on this line:
+
+```
+simpleStorage = new SimpleStorage();
+```
+
+Here is my full code:
+
+```
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.18;
+
+import {SimpleStorage} from "./SimpleStorage.sol";
+
+contract StorageFactory {
+    SimpleStorage public simpleStorage;
+    function createSimpleStorageContract() public {
+        simpleStorage = new SimpleStorage();
+    }
+}
+```
