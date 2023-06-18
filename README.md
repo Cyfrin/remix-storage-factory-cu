@@ -1,6 +1,6 @@
 This is part of the Cyfrin Solidity Blockchain Course.
 
-Video Coming Soon...
+*[⭐️ (3:29:58) | Lesson 3 | Remix Storage Factory](https://www.youtube.com/watch?v=umepbfKp5rI&t=12598s)*
 
 ## Getting Started
 
