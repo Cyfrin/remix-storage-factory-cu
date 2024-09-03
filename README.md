@@ -11,6 +11,9 @@ This is part of the Cyfrin Solidity Blockchain Course.
 3. Hit `Compile`
 4. Hit `Deploy` for whatever contract you want.
 
+## Resources talked about in the Video:
+1. Bits and Bytes Video link by Linus Tech tips: https://www.youtube.com/watch?v=Dnd28lQHquU 
+
 For a more in depth blog on working with remix, [read here](https://docs.chain.link/docs/deploy-your-first-contract/)
 
 # Thank you!
